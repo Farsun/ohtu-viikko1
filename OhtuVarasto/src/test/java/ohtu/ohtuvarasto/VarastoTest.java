@@ -114,6 +114,6 @@ public class VarastoTest {
     
     @Test
     public void toStringOikein(){
-        assertEquals(varasto.toString(), "sa ldo = 0.0, vielä tilaa 10.0");
+        assertEquals(varasto.toString(), "saldo = 0.0, vielä tilaa 10.0");
     }
 }
